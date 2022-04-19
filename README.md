@@ -2,6 +2,8 @@
 
 **[LIVE PROJECT LINK](https://goggles-by-sarim.netlify.app/search)**
 
+![alt text](https://raw.githubusercontent.com/sarimh9/goggles-by-sarim/master/final-project-image.png)
+
 **Goggles** has the ability to search for up to the minute results, latest images, current live news and recent videos.
 
 Built with **React JS** and **Tailwind CSS**, this **Completely Responsive Website** has a **Mordern UI**, **Dark Mode** and much more.
