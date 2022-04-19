@@ -1,6 +1,6 @@
 # Google Search Clone
 
-**[LIVE PROJECT LINK](https://goggles-by-sarim.netlify.app/search)**
+**[LIVE PROJECT LINK](https://goggles-by-sarim.netlify.app/search)**  =>  *https://goggles-by-sarim.netlify.app/search*
 
 ![alt text](https://raw.githubusercontent.com/sarimh9/goggles-by-sarim/master/final-project-image.png)
 
